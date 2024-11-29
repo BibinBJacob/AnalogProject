@@ -6,15 +6,15 @@
 
 ### i) ft vs gm/Id
 
-![nmosft](https://github.com/user-attachments/assets/94f7b851-261e-4005-ab73-eb7737cc5a7b)
+![nft](https://github.com/user-attachments/assets/5cd61668-50b7-4ad0-8ec7-36997680fcb3)
 
 ### ii) gmro vs gm/Id
 
-![nmosgmro](https://github.com/user-attachments/assets/780216a2-bddb-421c-953a-4be66f26f400)
+![ngmro](https://github.com/user-attachments/assets/9a6930f0-54f0-46c3-8829-4e692c09b7a6)
 
 ### iii) IdW vs gm/Id
 
-![nmosidw](https://github.com/user-attachments/assets/b1f9d79a-8947-4d7f-b046-be6a4b8f3f8a)
+![nidw](https://github.com/user-attachments/assets/345fd3a6-f76d-474a-bf72-ee41961d1b6a)
 
 
 
@@ -22,13 +22,15 @@
 ## PMOS Techplots
 ### i) ft vs gm/Id
 
-![pmosft](https://github.com/user-attachments/assets/4205ae0e-8b93-4a45-b10d-a4f6b5d31bd3)
+![pft](https://github.com/user-attachments/assets/70049a77-2d3f-498a-97d2-a930452e8bb1)
+
+
 
 ### ii) gmro vs gm/Id
 
-![pmosgmro](https://github.com/user-attachments/assets/27ec917c-cd33-48b3-843c-a9d100d18d44)
+![pgmro](https://github.com/user-attachments/assets/b683a247-b7c1-4519-8802-fa2ce07d4bfa)
 
 ### iii) IdW vs gm/Id
 
-![pmosidw](https://github.com/user-attachments/assets/e9d28fb3-feee-48d6-a104-e4452e6e086e)
+![pidw](https://github.com/user-attachments/assets/96c64102-37b7-4f6c-b8f5-177d94d03e71)
 
