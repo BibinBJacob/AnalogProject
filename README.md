@@ -6,7 +6,8 @@
 
 ### i) ft vs gm/Id
 
-![nft](https://github.com/user-attachments/assets/5cd61668-50b7-4ad0-8ec7-36997680fcb3)
+![nft](https://github.com/user-attachments/assets/0acb62ba-7278-4ae9-8e6b-c5021effb647)
+
 
 ### ii) gmro vs gm/Id
 
@@ -14,7 +15,7 @@
 
 ### iii) IdW vs gm/Id
 
-![nidw](https://github.com/user-attachments/assets/345fd3a6-f76d-474a-bf72-ee41961d1b6a)
+![Idw](https://github.com/user-attachments/assets/617f44fb-40bd-4700-9c51-cd2af83735c1)
 
 
 
