@@ -22,17 +22,17 @@
 ## PMOS Techplots
 ### i) ft vs gm/Id
 
-![pft](https://github.com/user-attachments/assets/70049a77-2d3f-498a-97d2-a930452e8bb1)
 
+![ft](https://github.com/user-attachments/assets/832af900-7385-4c1a-a07d-8990c47e7638)
 
 
 ### ii) gmro vs gm/Id
 
-![pgmro](https://github.com/user-attachments/assets/b683a247-b7c1-4519-8802-fa2ce07d4bfa)
+![pgmro](https://github.com/user-attachments/assets/4b11b19f-dca6-47cb-a0e3-84171c886712)
 
 ### iii) IdW vs gm/Id
 
-![pidw](https://github.com/user-attachments/assets/96c64102-37b7-4f6c-b8f5-177d94d03e71)
+![idw](https://github.com/user-attachments/assets/a19bf9c3-5af0-4029-806f-d6281fb12fc7)
 
 
 
